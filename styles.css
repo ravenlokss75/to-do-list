@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=WindSong&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'WindSong', cursive;
+    background-image: linear-gradient(to right, #e22865, #37adcd);
+    color: white;
+}
